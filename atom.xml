@@ -1,34 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://1zhaomingxu1.github.io</id>
-    <title>流年小旭</title>
-    <updated>2021-05-31T10:25:11.743Z</updated>
+    <title>海龙虚拟硬件助手</title>
+    <updated>2021-08-08T14:53:16.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://1zhaomingxu1.github.io"/>
     <link rel="self" href="https://1zhaomingxu1.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
     <logo>https://1zhaomingxu1.github.io/images/avatar.png</logo>
     <icon>https://1zhaomingxu1.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 流年小旭</rights>
-    <entry>
-        <title type="html"><![CDATA[53909-00000-cdaf8-00000]]></title>
-        <id>https://1zhaomingxu1.github.io/post/53909-00000-cdaf8-00000/</id>
-        <link href="https://1zhaomingxu1.github.io/post/53909-00000-cdaf8-00000/">
-        </link>
-        <updated>2021-05-31T06:52:44.000Z</updated>
-        <content type="html"><![CDATA[<p>53909-00000-cdaf8-00000</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于机器码召回公告]]></title>
-        <id>https://1zhaomingxu1.github.io/post/guan-yu-ji-qi-ma-zhao-hui-gong-gao/</id>
-        <link href="https://1zhaomingxu1.github.io/post/guan-yu-ji-qi-ma-zhao-hui-gong-gao/">
-        </link>
-        <updated>2021-05-30T15:24:47.000Z</updated>
-        <content type="html"><![CDATA[<p>凡是申请退款，授权的机器码一律召回。<br>
-机器码被加入到召回列表中，您被召回的机器将无法继续使用软件或者无法继续播放视频，如想恢复使用，请联系卖家。<br>
-被召回的机器码：</p>
-<p>53909-00000-cdaf8-00000</p>
-]]></content>
-    </entry>
+    <rights>All rights reserved 2021, 海龙虚拟硬件助手</rights>
 </feed>
