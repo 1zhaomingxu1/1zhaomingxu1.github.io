@@ -308,11 +308,11 @@ video {
   vertical-align: baseline;
 }
 html {
-  font-size: 58%;
+  font-size: 65%;
 }
 body {
   font-family: -apple-system, BlinkMacSystemFont, opensans, Optima, 'Microsoft Yahei', sans-serif;
-  font-size: 14px;
+  font-size: 25px;
   color: #333;
   background: #f3f7f9;
 }
